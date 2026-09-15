@@ -63,8 +63,8 @@ STM32F401RE-Dev-Board-Design/
 │   └── BOM2.png                           # Bill of Materials Table
 │
 └── DRC ERC Results/
-    ├── WhatsApp Image 2026-09-15 at 11.53.13 PM.jpeg     # DRC — 0 Violations
-    └── WhatsApp Image 2026-09-15 at 11.53.14 PM (1).jpeg # ERC — 0 Violations
+    ├── IMAGE1.jpeg     # DRC — 0 Violations
+    └── IMAGE2.jpeg # ERC — 0 Violations
 ```
 
 ---
